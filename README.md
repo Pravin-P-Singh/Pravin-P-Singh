@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/pravin13022004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravin13022004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pravin-singh-144ab4283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pravin-singh-144ab4283/" height="30" width="40" /></a>
-<a href="https://instagram.com/__pravin.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pravin.__" height="30" width="40" /></a>
+<a href="https://instagram.com/___pravin.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pravin.__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/devpravin_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devpravin_13" height="30" width="40" /></a>
 </p>
 
